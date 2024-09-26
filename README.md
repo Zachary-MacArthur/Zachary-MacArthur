@@ -1,4 +1,4 @@
-## Zachary MacArthur
+## About Me
 Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montréal, Quebec. He is a Full Stack Software Developer with an interest in Web3, AI, Open Source, and Self-Hosting. 
 ## 
 * 🌱   Currently learning: Linux, Rust, GoLang.
