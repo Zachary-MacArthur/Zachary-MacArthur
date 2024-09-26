@@ -6,7 +6,7 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 * 💻   Currently building a self-hosted music streaming archive .
 * 🌐   Experimenting with sound / live coding using MaxMSP, SuperCollider, and Pure Data.
 * ⛵   Volunteer Open Library Developer at the Internet Archive.
-* 🎓   Bachelor of Fine Arts, B.F.A Major in Intermedia/Cyberarts Minor in Electroacoustic Studies.
+* 🎓   Bachelor of Fine Arts, B.F.A Major in Intermedia Cyberarts, Minor in Electroacoustic Studies.
 
 
 ## Technologies & Tools
