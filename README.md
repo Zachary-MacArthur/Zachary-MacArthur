@@ -7,6 +7,7 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 * 🌐   Experimenting with sound / live coding using MaxMSP, SuperCollider, and Pure Data.
 * 🎓   Bachelor of Fine Arts, B.F.A Major in Intermedia Cyberarts, Minor in Electroacoustic Studies.
 * ⛵   Volunteer Open Library Developer at the Internet Archive.
+* 👾   Hoon Academy graduate 2024 ~narhes-sivsef on Urbit
 
 
 
