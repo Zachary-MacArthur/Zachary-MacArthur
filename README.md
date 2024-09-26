@@ -74,7 +74,7 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 &nbsp;
 </picture>
 
-## I’m currently learning 
+## I’m Currently Learning 
 &nbsp;
 <picture>
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -91,7 +91,7 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 <picture>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 </picture>
-## How to reach me
+## How To Reach Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zachary-macarthur-834b1b329/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/9820174750a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=macarthur.zac@gmail.com)
