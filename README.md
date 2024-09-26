@@ -5,8 +5,9 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 * 📚   Reading: Pure War by Paul Virilio, The Urth of the New Sun by Gene Wolfe, Hypersea by Mark McMenamin.
 * 💻   Currently building a self-hosted music streaming archive .
 * 🌐   Experimenting with sound / live coding using MaxMSP, SuperCollider, and Pure Data.
-* ⛵   Volunteer Open Library Developer at the Internet Archive.
 * 🎓   Bachelor of Fine Arts, B.F.A Major in Intermedia Cyberarts, Minor in Electroacoustic Studies.
+* * ⛵   Volunteer Open Library Developer at the Internet Archive.
+
 
 
 ## Technologies & Tools
