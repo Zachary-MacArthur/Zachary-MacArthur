@@ -8,6 +8,7 @@ Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montr
 * 🎓   Bachelor of Fine Arts, Major in Intermedia Cyberarts, Minor in Electroacoustic Studies.
 * ⛵   Volunteer Open Library Developer at the Internet Archive.
 * 👾   Hoon Academy graduate 2024 ~narhes-sivsef on Urbit.
+* 👾   zachary-macarthur.com
 
 
 
