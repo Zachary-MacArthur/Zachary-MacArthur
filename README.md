@@ -1,6 +1,5 @@
 ## Zachary MacArthur
-Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montréal, Quebec. He is a Full Stack Software Developer with an interest in Web3, AI, Open Source, and Self-Hosting. 
-<a href="zachary-macarthur.com>zachary-macarthur.com</a>
+Zachary MacArthur (b. 1992 Vancouver, British Columbia) lives and works in Montréal, Quebec. He is a Full Stack Software Developer with an interest in Web3, AI, Open Source, and Self-Hosting. for more info visit: [zachary-macarthur.com](https://zachary-macarthur.com/).
 ## 
 * 🌱   Currently learning: Linux, Rust, GoLang.
 * 📚   Reading: Pure War by Paul Virilio, The Urth of the New Sun by Gene Wolfe, and Hypersea by Mark McMenamin.
